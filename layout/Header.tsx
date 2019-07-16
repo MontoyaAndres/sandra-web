@@ -33,13 +33,13 @@ function Header() {
             <div className="container">
               <div className="navbar-brand">
                 <a className="navbar-item">
-                  <a
+                  <span
                     id="start"
                     className="title is-4 navbar-item-title"
                     onClick={() => handleScrollIntoView("#start")}
                   >
                     Asesora Sandra Sánchez
-                  </a>
+                  </span>
                 </a>
                 <span
                   className="navbar-burger burger"

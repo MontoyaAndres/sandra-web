@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Estufa MABE INGENIOUS603CX2",
+    "description": "Número de quemadores: 4\n Tipo: Piso\n Color: Inoxidable\n Tipo de encendido en quemadores:\n Electrónico por botón\n Cubierta Acero inoxidable\n Parrillas superiores: 2 de alambrón\n Capacidad en homo: 126.6 L\n Luz en horno: Si\n Tipo de encendido en horno: Manual\n Niveles de parrillas: 2\n Funcionamiento: Gas",
+    "image": "/static/estufas/Estufa-MABE-INGENIOUS603CX2.jpeg"
+  },
+  {
+    "name": "Estufa MABE TXIG-5CON",
+    "description": "Número de quemadores: 4\n Tipo: Piso\n Color: Inoxidable\n Tipo de encendido en quemadores:\n Electrónico por botón\n Cubierta Acero inoxidable\n Parrillas superiores: 2 de fundición\n Capacidad en horno: 63 L\n Luz en horno: Si\n Tipo de encendido en horno: Manual\n Niveles de parrillas: 2\n Funcionamiento: Gas",
+    "image": "/static/estufas/Estufa-MABE-TXIG-5CON.jpeg"
+  },
+  {
+    "name": "Estufa IBG HORNO CIC20AGGI 3",
+    "description": "Estufa a gas de piso 20\"\n Tapa de cristal templado vidrio gris\n Cubierta en acero inoxidable\n 2 parrillas en alambrón\n 4 quemadores estándar\n Encendido: manual\n Puerta horno vidrio recto\n Horno de gran capacidad con termo control\n Grill dorado eléctrico\n Voltaje / frecuencia: 110v / 60 Hz\n Color: Grafito\n Garantia: 1 año",
+    "image": "/static/estufas/Estufa-IBG-HORNO-CIC20AGGI-3.jpg"
+  }
+]

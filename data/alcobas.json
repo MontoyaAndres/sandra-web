@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Alcoba barcelona",
+    "description": "Color chocolate más filtro UV.\n Acabado semimate.\n Presentación: Cama 1.20*1.90, 1.40*1.90 y 1.60*1.90 mt.\n Dos nocheros Barcelona y espejo de pie Barcelona con marco corredizo y gabinete",
+    "image": "/static/alcobas/Alcoba-barcelona.jpg"
+  },
+  {
+    "name": "Alcoba coral",
+    "description": "Color Caoba o Negro más filtro UV.\n Acabado semimate.\n Decorada con tallas hechas a mano.\n Presentación: Cama 1.40*1.90 y 1.60*190m.\n Dos mesas de noche Coral y espejo de pie Coral.",
+    "image": "/static/alcobas/Alcoba-coral.jpg"
+  },
+  {
+    "name": "Alcoba galicia",
+    "description": "Color negro, más filtro UV.\n Acabado semimate.\n Con tablero brillante en color blanco.\n Presentación: Cama 1.00*1.90 mt, 1.20*1.90 mt y 1.40*1.90 mt.\n Dos nocheros Galicia y cajonera Galicia con marco espejo de colgar.",
+    "image": "/static/alcobas/Alcoba-galicia-1.jpg"
+  },
+  {
+    "name": "Alcoba galicia",
+    "description": "Color negro, más filtro UV.\n Acabado semimate.\n Con tablero brillante en color negro.\n Presentación: Cama 1.00*1.90 m, 1.20*1.90 m y 1.40*1.90 m.\n Dos nocheros Galicia y cajonera Galicia con marco espejo de colgar.",
+    "image": "/static/alcobas/Alcoba-galicia-2.jpg"
+  },
+  {
+    "name": "Alcoba infantil terra",
+    "description": "Color wengue (poro abierto) o natural con blanco, más filtro UV, acabado semimate.\n Presentación: Cama 1.00*1.90 m. Corral 1.00*1.40 m con figuras infantiles.\n Gavetas con manijas decorativas infantiles en Arte country.\n La mesa de noche y el espejo de pie se venden por separado.",
+    "image": "/static/alcobas/Alcoba-infantil-terra.jpg"
+  },
+  {
+    "name": "Alcoba lisboa",
+    "description": "Color negro, Caoba o Blanco más filtro UV.\n Acabado semimate.\n Presentación: Cama 1.20*1.90, 1.40*1.90 y 1.60*1.90 m.\n Mesas de noche Lisboa, espejo y cajonero se venden por separado.",
+    "image": "/static/alcobas/Alcoba-lisboa-1.jpg"
+  },
+  {
+    "name": "Alcoba lisboa",
+    "description": "Color negro, Caoba o Blanco más filtro UV.\n Acabado semimate.\n Presentación: Cama 1.20*1.90, 1.40*1.90 y 1.60*1.90 m.\n Mesas de noche Lisboa, espejo y cajonero se venden por separado.",
+    "image": "/static/alcobas/Alcoba-lisboa-2.jpg"
+  },
+  {
+    "name": "Alcoba natura",
+    "description": "Color Natural más filtro UV.\n Acabado semimate.\n Presentación cama: 1.00*1.90 m, 1.20*1.90 m, 1.40*1.90 m, 1.60*1.90 m.\n Dos mesas de noche Natura, marco espejo Natura y butaco.",
+    "image": "/static/alcobas/Alcoba-natura.jpg"
+  },
+  {
+    "name": "Alcoba oporco",
+    "description": "Color Caoba o Negro más filtro UV.\n Acabado semimate.\n Presentación: Cama 1.20*1.90 y 1.40*1.90 m.\n Dos nocheros Deco y Espejo de pie Deco con butaco (cumple la función de zapatero).",
+    "image": "/static/alcobas/Alcoba-oporto.jpg"
+  },
+  {
+    "name": "Alcoba paris",
+    "description": "Color negro más filtro UV.\n Acabado semimate.\n Tres botones metálicos que realzan su diseño.\n Presentación: Cama 1.20*1.90 m y 1.40*1.90 m.\n Dos nocheros Madrid y espejo de pie Madrid con butaco (cumple la función de zapatero).",
+    "image": "/static/alcobas/Alcoba-paris.jpg"
+  },
+  {
+    "name": "Alcoba tendenza",
+    "description": "Color Negro más filtro UV.\n Contraste de piezas al natural.\n Acabado semimate.\n Presentación cama: 1.00*1.90 m, 1.20*1.90 m, 1.40*1.90 m, 1.60*1.90 m.\n 2 mesas de noche Tendenza.\n Marco espejo Tendenza y butaco.",
+    "image": "/static/alcobas/Alcoba-tendenza.jpg"
+  },
+  {
+    "name": "Alcoba terra",
+    "description": "Color wengue (poro abierto) o natural con blanco mas filtro UV.\n Acabado semimate.\n Presentación: Cama 1.00*1.90 mt.\n La mesa de noche infantil y el marco espejo infantil se venden por separado.",
+    "image": "/static/alcobas/Alcoba-terra.jpg"
+  },
+  {
+    "name": "Alcoba viena",
+    "description": "Color Caoba, Negro o Natural con filtro UV.\n Acabado semimate.\n Presentación: Cama 1.40*1.90 y 1.60*1.90 m.\n Dos mesas de noche Altamira y cajonera Altamira con marco espejo de colgar y butaco (cumple la función de zapatero).",
+    "image": "/static/alcobas/Alcoba-viena.jpg"
+  },
+  {
+    "name": "Cabecero confort y Base cama",
+    "description": "Cabecero confort: Estructura en madera tapizada en tela tipo PVC con técnica capitoneada y botones brillantes.\n Colores disponibles: negro, café y blanco.\t Presentación de ancho: 1.40 m, 1.60 m y 2.00 m.\t Altura: 1.45 m.\n Base cama: Estructura en madera, tapizada en tela tipo PVC.\n Colores: Negro, Café y Blanco.\t Patas metálicas.\t Presentación disponible: 1.00*1.90 m, 1.20*1.90 m, 1.40*1.90 m, 1.60*1.90 m, 2.00 x 2.00 m.",
+    "image": "/static/alcobas/Cabecero-confort.jpg"
+  }
+]

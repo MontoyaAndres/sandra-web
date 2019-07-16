@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Vitrina Forte 7",
+    "description": "Tipo de equipo: Refrigeración comercial\n Alto (mm): 1627 mm\n Ancho (mm): 496 mm\n Fondo(mm): 553 mm\n Temperatura: 0°C a 7°C\n Gabinetes interior y exterior en Lámina prepintada blanca, aislante HC ciclopentano",
+    "image": "/static/vitrinas/Vitrina-forte-7.jpg"
+  },
+  {
+    "name": "Vitrina Congeladora FOGEL VR-17-C-LEDR",
+    "description": "Placas frías Heavy Duty con tubería de cobre -Deshielo Manual- en equipos con sistema de placas.\n Rótulo superior iluminado.\n Resistente marco plástico de PVC.\n Disponible iluminación LED, ahorre energía mientras mejora la apariencia del producto.\n Halador de puerta incorporado.\n Vidrio templado doble, térmico, sellado al vacío para evitar condensación.\n Unidad condensadora Heavy Duty, de fácil acceso para el servicio.\n Condensador de aire forzado.\n Bisagras Heavy Duty para uso pesado, con sistema de retorno automático.\n Aislante de poliuretano, lebre de CFCs con espesor de 2 1/4.\n Sólido gabinete de lámina galvanizada pre pintada con pintura poliester al horno.\n Interiores que cumplen con las normas NFS.\n Base reforzada con lámina calibre 18.\n Sistema eléctrico con normas de seguridad UL.",
+    "image": "/static/vitrinas/Vitrina-Congeladora-FOGEL-VR-17-C-LEDR.jpg"
+  },
+  {
+    "name": "Vitrina Congeladora INPVE-15",
+    "description": "Tuberías de cobre para asegurar una larga vida a su inversión\n Gabinete exterior e interior en lámina galvanizada. Recubierta con pintura epoxi-poliéster con aplicación electrostática en color blanco.\n Aislamiento en poliuretano que aumenta la eficiencia y reduce los consumos de energía.\n Rodachinas que permiten un fácil y cómodo desplazamiento.\n Neveras verticales con puerta batiente compuesta por panel de dos vitrinas, con sistemas anti-empañamiento.\n Display para publicidad (aplica para algunas referencias) 2 y 3 páneles de vidrio.\n Agente expansivo Ciclopentano que contribuye a la protección del medio ambiente.",
+    "image": "/static/vitrinas/Vitrina-Congeladora-INPVE-15.jpg"
+  },
+  {
+    "name": "Vitrina Indufrial INPVE - 40R",
+    "description": "Lamina galvanizada de alta resistencia\n Capacidad 40 pies o 1132 litros\n Sistema de ahorro de energia\n 3 puertas de vidrio batientes\n Tuberias en cobre\n Sistema de iluminacion led\n Parrillas ajustables a diferentes medidas\n Indicador de temperatura",
+    "image": "/static/vitrinas/Vitrina-Indufrial-INPVE-40R.jpg"
+  },
+  {
+    "name": "Vitrina Horizontal 453 Litros Indufrial Ivd-130r",
+    "description": "Capacidad de refrigeración (litros): 311.\n Capacidad de congelación (litros): 142.\n Temperatura de refrigeración: 1°C a 5°C.\n Temperatura de congelación: -10°C a -5°C.\n 1 Puerta.\n Sistema de refrigeración por placas.\n Gas refrigerante R134A, ecológico.",
+    "image": "/static/vitrinas/Vitrina-Horizontal-453-Litros-Indufrial-Ivd-130r.jpg"
+  }
+]

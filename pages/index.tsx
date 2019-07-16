@@ -1,45 +1,28 @@
 import * as React from "react";
+import dynamic from "next/dynamic";
 
 import useSearch from "../utils/useSearch";
 
+const DynamicProductList = dynamic(() => import("../components/ProductList"), {
+  ssr: false
+});
+
+const selectValues = ["Alcobas", "Estufas", "Lavadoras", "Neveras", "Vitrinas"];
+
 function index() {
-  const [value, status, setValue] = useSearch();
+  const [values, setValues] = React.useState({
+    inputValue: "",
+    selectValue: selectValues[0]
+  });
+  const { products } = useSearch(values);
 
   return (
-    <>
-      <style jsx>{`
-        .empty-content-padding {
-          padding-top: 50px;
-        }
-      `}</style>
-      <section className="section">
-        <div className="container">
-          <div className="field">
-            <label className="label">Busca lo que tú necesitas!</label>
-            <div className="control">
-              <input
-                id="products"
-                className="input"
-                type="email"
-                placeholder="e.g. Televisor"
-              />
-            </div>
-          </div>
-
-          {status === "" && (
-            <div className="content has-text-centered empty-content-padding">
-              <h2 className="subtitle">¿Qué estas buscando ahora mismo 🤔?</h2>
-            </div>
-          )}
-
-          {status === "none" && (
-            <div className="content has-text-centered empty-content-padding">
-              <h2 className="subtitle">¡El elemento no se encuentra 😓!</h2>
-            </div>
-          )}
-        </div>
-      </section>
-    </>
+    <DynamicProductList
+      searchValues={values}
+      handleSearchValues={setValues}
+      itemsSelectList={selectValues}
+      products={products}
+    />
   );
 }
 

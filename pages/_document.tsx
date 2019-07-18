@@ -23,7 +23,7 @@ class MyDocument extends Document {
           <link rel="shortcut icon" href="/static/favicon.ico" />
 
           {/* Android */}
-          <meta name="theme-color" content="#00d1b2" />
+          <meta name="theme-color" content="#3f51b5" />
           <meta name="mobile-web-app-capable" content="yes" />
 
           {/* iOS */}

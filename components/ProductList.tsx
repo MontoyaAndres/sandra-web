@@ -36,7 +36,8 @@ function ProductList({
           border-color: #3f51b5;
         }
 
-        .select.is-primary select:focus {
+        .select.is-primary select:focus,
+        .input.is-primary:focus {
           box-shadow: 0 0 0 0.125em rgba(63, 81, 181, 0.25);
         }
 

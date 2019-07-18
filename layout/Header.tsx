@@ -30,6 +30,20 @@ function Header() {
           background-color: #3f51b5;
           color: white;
         }
+
+        .navbar-burger {
+          color: white;
+        }
+
+        .hero.is-primary a.navbar-item:hover {
+          background-color: #5c6bc0;
+        }
+
+        @media screen and (max-width: 1087px) {
+          .hero.is-primary .navbar-menu {
+            background-color: #3f51b5;
+          }
+        }
       `}</style>
 
       <section className="hero is-primary is-fullheight">

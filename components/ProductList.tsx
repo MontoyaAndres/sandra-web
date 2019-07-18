@@ -30,6 +30,16 @@ function ProductList({
           width: auto;
         }
 
+        .input.is-primary,
+        .select.is-primary *,
+        .select.is-primary:not(:hover)::after {
+          border-color: #3f51b5;
+        }
+
+        .select.is-primary select:focus {
+          box-shadow: 0 0 0 0.125em rgba(63, 81, 181, 0.25);
+        }
+
         @media only screen and (max-width: 768px) {
           .control-select-expanded {
             padding-top: 0.75rem;

@@ -25,6 +25,11 @@ function Header() {
         .navbar-item-title {
           font-family: "Lobster", cursive;
         }
+
+        .is-primary {
+          background-color: #3f51b5;
+          color: white;
+        }
       `}</style>
 
       <section className="hero is-primary is-fullheight">

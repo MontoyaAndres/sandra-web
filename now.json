@@ -1,5 +1,15 @@
 {
   "version": 2,
   "name": "sandra-web",
-  "builds": [{ "src": "next.config.js", "use": "@now/next" }]
+  "alias": ["ibg.now.sh", "ibg"],
+  "builds": [{ "src": "package.json", "use": "@now/static-build" }],
+  "routes": [
+    {
+      "src": "/static/(.*)",
+      "dest": "/static/$1",
+      "headers": {
+        "cache-control": "immutable, max-age=31536000"
+      }
+    }
+  ]
 }

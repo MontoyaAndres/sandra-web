@@ -81,7 +81,7 @@ function HeaderBody() {
 
       <div className="hero-body">
         <div className="container has-text-centered">
-          <p className={`title ${width > 600 ? "is-1" : "is-2"}`}>
+          <p className={`title ${width > 768 ? "is-1" : "is-3"}`}>
             Lo que tú necesites, lo encuentras en el almacen I.B.G con la
             asesoría de Sandra Sánchez.
           </p>

@@ -27,7 +27,7 @@ function Header() {
         }
       `}</style>
 
-      <section className="hero is-success is-fullheight">
+      <section className="hero is-primary is-fullheight">
         <div className="hero-head">
           <nav className="navbar">
             <div className="container">

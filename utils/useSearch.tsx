@@ -14,8 +14,8 @@ function useSearch(values: SearchValue) {
   useMemo(() => {
     const result = getJSONToRead(selectValue).filter(value =>
       `${value.name} ${value.description}`
-        .toLocaleLowerCase()
-        .includes(inputValue)
+        .toLowerCase()
+        .includes(inputValue.toLowerCase())
     );
 
     setProducts(result);

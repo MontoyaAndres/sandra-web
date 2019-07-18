@@ -21,16 +21,32 @@ function ProductList({
         .button {
           width: 100%;
         }
+
+        .control-select-expanded {
+          padding-top: 0;
+        }
+
+        .select-expanded {
+          width: auto;
+        }
+
+        @media only screen and (max-width: 768px) {
+          .control-select-expanded {
+            padding-top: 0.75rem;
+          }
+
+          .select-expanded {
+            width: 100vw;
+          }
+        }
       `}</style>
 
       <section className="section">
         <div className="container">
-          <div className="field is-grouped">
+          <div className={`field ${width > 768 ? "is-grouped" : ""}`}>
             <div className="control is-expanded">
               <input
-                className={`input is-primary ${
-                  width > 600 ? "is-medium" : "is-small"
-                }`}
+                className="input is-primary is-medium"
                 type="search"
                 placeholder="Busca lo que tú necesitas!"
                 value={searchValues.inputValue}
@@ -42,13 +58,10 @@ function ProductList({
                 }
               />
             </div>
-            <div className="control">
-              <span
-                className={`select is-primary ${
-                  width > 600 ? "is-medium" : "is-small"
-                }`}
-              >
+            <div className="control control-select-expanded">
+              <span className="select is-primary is-medium">
                 <select
+                  className="select-expanded"
                   value={searchValues.selectValue}
                   onChange={e =>
                     handleSearchValues({
@@ -69,7 +82,7 @@ function ProductList({
 
           {products.length === 0 ? (
             <div className="content has-text-centered empty-content-padding">
-              <h2 className={`subtitle ${width > 600 ? "" : "is-5"}`}>
+              <h2 className={`subtitle ${width > 768 ? "" : "is-5"}`}>
                 ¡El elemento no se encuentra 😓!
               </h2>
             </div>

@@ -43,7 +43,7 @@ function Footer() {
               <p>
                 Más información llamando al número de celular{" "}
                 <a href="tel:3134894611">3134894611</a> o escribiéndome en{" "}
-                <a href="https://wa.me/+573134894611?text=Hola,%20Sandra%20%C2%BFC%C3%B3mo%20te%20va?">
+                <a href="https://wa.me/+573134894611?text=Hola%20Sandra,%20estoy%20interesado%20en%20el%20producto%20">
                   WhatsApp
                 </a>
                 .

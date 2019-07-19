@@ -60,13 +60,53 @@
     "image": "/static/alcobas/Alcoba-terra.jpg"
   },
   {
+    "name": "Cabecero Siena y Base cama",
+    "description": "Cabecero siena: Estructura en madera, color Negro o Blanco más filtro UV.\n Acabado semimate. Tapizado capitoneado en tela tipo PVC, colores: Beige, Blanco, Grid, Negro y Café.\t Presentación de ancho: 1.00 m, 1.20 m, 1.40 m, 1.60 m y 2.00 m.\t Altura: 0.70 m.\n Base cama: Estructura en madera, tapizada en tela tipo PVC.\n Colores: Negro y Café y Blanco.\t Patas metálicas.\t Presentación disponible: 1.00*1.90 m, 1.20*1.90 m, 1.40*1.90 m, 1.60*1.90 m y 2.00*2.00 m.\t Mesa de noche se vende por separado.",
+    "image": "/static/alcobas/Cabecero-siena.jpg"
+  },
+  {
+    "name": "Cabecero confort y Base cama",
+    "description": "Cabecero confort: Estructura en madera tapizada en tela tipo PVC con técnica capitoneada y botones brillantes.\n Colores disponibles: negro, café y blanco.\t Presentación de ancho: 1.40 m, 1.60 m y 2.00 m.\t Altura: 1.45 m.\n Base cama: Estructura en madera, tapizada en tela tipo PVC.\n Colores: Negro, Café y Blanco.\t Patas metálicas.\t Presentación disponible: 1.00*1.90 m, 1.20*1.90 m, 1.40*1.90 m, 1.60*1.90 m, 2.00*2.00 m.",
+    "image": "/static/alcobas/Cabecero-confort.jpg"
+  },
+  {
+    "name": "Cabecero oslo y Base cama oslo",
+    "description": "Cabecero oslo: Estructura en madera tapizada en tela tipo lino 100% poliéster.\n Cabecero con tapizado tipo capitoneado.\t Presentación ancho: 1.20 m, 1.40 m y 1.60 m.\t Altura: 1.20 m.\n Base cama oslo: Base cama dividida en 2 cuerpos para facilitar su manipulación:\n Colores disponibles: negro, café y gris\t Presentación disponible: 1.40*1.90 m, 1.60*1.90 m y de 2.00*2.00 m.",
+    "image": "/static/alcobas/Cabecero-oslo.jpg"
+  },
+  {
     "name": "Alcoba viena",
     "description": "Color Caoba, Negro o Natural con filtro UV.\n Acabado semimate.\n Presentación: Cama 1.40*1.90 y 1.60*1.90 m.\n Dos mesas de noche Altamira y cajonera Altamira con marco espejo de colgar y butaco (cumple la función de zapatero).",
     "image": "/static/alcobas/Alcoba-viena.jpg"
   },
   {
-    "name": "Cabecero confort y Base cama",
-    "description": "Cabecero confort: Estructura en madera tapizada en tela tipo PVC con técnica capitoneada y botones brillantes.\n Colores disponibles: negro, café y blanco.\t Presentación de ancho: 1.40 m, 1.60 m y 2.00 m.\t Altura: 1.45 m.\n Base cama: Estructura en madera, tapizada en tela tipo PVC.\n Colores: Negro, Café y Blanco.\t Patas metálicas.\t Presentación disponible: 1.00*1.90 m, 1.20*1.90 m, 1.40*1.90 m, 1.60*1.90 m, 2.00 x 2.00 m.",
-    "image": "/static/alcobas/Cabecero-confort.jpg"
+    "name": "Cama cuna infantil niña",
+    "description": "Color blanco y fucsia, más filtro UV.\n Disponible también en color lila y blanco.\n Presentación: Cama de 1.00*1.90 mt con 3 gavetas y apliques decorativos.\n Corral de 1.00*1.30 mt.\n La mesa de noche infantil niña y la cajonera con marco espejo infantil niña de colgar se venden por separado.",
+    "image": "/static/alcobas/Cama-cuna-infantil-niña.jpg"
+  },
+  {
+    "name": "Cama cuna infantil niño",
+    "description": "Color blanco y azul, más filtro UV.\n Disponible también en color verde y blanco.\n Presentación: Cama de 1.00*1.90 mt con 3 gavetas y apliques decorativos.\n Corral de 1.00*1.30 mt.\n El nochero y la cajonera con marco espejo de colgar se venden por separado.",
+    "image": "/static/alcobas/Cama-cuna-infantil-niño.jpg"
+  },
+  {
+    "name": "Cama tarima ares infantil",
+    "description": "Color wengue (poro abierto) o natural con blanco más filtro UV, acabado semimate.\n Presentación: Cama superior de 1.00*1.90 m. Nicho de 0.90*1.80 m.\n Incluye colchón del nicho espesor de 15 Cm.\n Gavetas con manijas decorativas infantiles en Arte country.\n El nochero infantil y el marco espejo infantil se venden por separado.",
+    "image": "/static/alcobas/Cama-tarima-ares-infantil.jpg"
+  },
+  {
+    "name": "Cama tarima ares",
+    "description": "Color wengue (poco abierto) o natural con blanco mas filtro UV.\n Acabado semimate.\n Presentación: Cama superior de 1.00*1.90 m. Nicho de 0.90*1.80 m.\n Incluye colchón del nicho espesor de 15 Cm.\n Gavetas con manijas metálicas.\n El nochero infantil y el espejo de pie infantil se venden por separado.",
+    "image": "/static/alcobas/Cama-tarima-ares.jpg"
+  },
+  {
+    "name": "Camarote marfíl",
+    "description": "Color Caoba, Negro o Blanco más filtro UV. Acabado semimate.\n Presentación: 2 Camas 1.00*1.90 m.\n Incluye escalera y baranda.\n Presentación nicho: 0.80*1.80 mt, se vende por separado.\n El espejo de pie Deco y la mesa de noche Deco se venden por separado.",
+    "image": "/static/alcobas/Camarote-marfil.jpg"
+  },
+  {
+    "name": "Camarote davinci",
+    "description": "Color blanco y negro más filtro UV.\n Acabado semimate.\n Presentación: 1 Cama de 1.00*1.90 m y 1 Cama de 1.20*1.90 m.\n Incluye escalera, baranda y tres gavetas. Mesa de noche Galicia se vende por separado.",
+    "image": "/static/alcobas/Camerote-davinci.jpg"
   }
 ]

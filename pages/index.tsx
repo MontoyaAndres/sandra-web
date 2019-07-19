@@ -7,7 +7,14 @@ const DynamicProductList = dynamic(() => import("../components/ProductList"), {
   ssr: false
 });
 
-const selectValues = ["Alcobas", "Estufas", "Lavadoras", "Neveras", "Vitrinas"];
+const selectValues = [
+  "Alcobas",
+  "Estufas",
+  "Lavadoras",
+  "Neveras",
+  "Salas",
+  "Vitrinas"
+];
 
 function index() {
   const [values, setValues] = React.useState({

@@ -2,6 +2,7 @@ import Alcobas from "../data/alcobas.json";
 import Estufas from "../data/estufas.json";
 import Lavadoras from "../data/lavadoras.json";
 import Neveras from "../data/neveras.json";
+import Salas from "../data/salas.json";
 import Vitrinas from "../data/vitrinas.json";
 
 export function getJSONToRead(selectValue) {
@@ -17,6 +18,9 @@ export function getJSONToRead(selectValue) {
 
     case "Neveras":
       return Neveras;
+
+    case "Salas":
+      return Salas;
 
     case "Vitrinas":
       return Vitrinas;

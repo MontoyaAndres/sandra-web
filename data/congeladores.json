@@ -8,5 +8,25 @@
     "name": "Congelador IBG horizontal 198L IBG201CFC",
     "description": "Climate ST.\n Gas R600A.\n Descongelación manual.\n Energy Class A+ /DOE/EMPES.\n Canasta extraíble de junta desmontable.\n Termostato ajustable.\n Consumo Energético 34,1 KWh/mes.",
     "image": "/static/congeladores/Congelador-IBG-horizontal-198l-ibg201cfc.jpg"
+  },
+  {
+    "name": "Congelador ICC 150 ECO",
+    "description": "Capacidad: 140 Litros.\n Temperatura: ≤-18°C.\n Sistema de refrigeración: Aire natural.\n Consumo de energia: 0.92 kwH/24H.",
+    "image": "/static/congeladores/Congelador-ICC-150-ECO.jpg"
+  },
+  {
+    "name": "Congelador ICCD 290",
+    "description": "Capacidad: 284 Litros.\n Temperatura: 0°C a 10°C (Refrigeración) ≤-18°C (Congelación).\n Sistema de refrigeración: Aire natural.\n Consumo de energía: 1.48 kwH/24H.",
+    "image": "/static/congeladores/Congelador-ICCD-290.jpg"
+  },
+  {
+    "name": "Congelador ICC 550 ECO",
+    "description": "Capacidad: 446 Litros.\n Temperatura: ≤-18°C.\n Sistema de refrigeración: Aire natural.\n Consumo de energía: 1.78 kwH/24H.",
+    "image": "/static/congeladores/Congelador-ICC-550-ECO.jpg"
+  },
+  {
+    "name": "Congelador ICV 500 ECO",
+    "description": "Capacidad: 393 Litros.\n Temperatura: ≤-18°C.\n Sistema de refrigeración: Aire natural.\n Consumo de energía: 3.45 kwH/24H.",
+    "image": "/static/congeladores/Congelador-ICV-500-ECO.jpg"
   }
 ]

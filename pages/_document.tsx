@@ -73,6 +73,10 @@ class MyDocument extends Document {
             integrity="sha256-8B1OaG0zT7uYA572S2xOxWACq9NXYPQ+U5kHPV1bJN4="
             crossOrigin="anonymous"
           />
+          <link
+            rel="stylesheet"
+            href="https://unpkg.com/flickity@2.2.1/dist/flickity.css"
+          />
         </Head>
 
         <body>

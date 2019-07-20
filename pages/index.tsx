@@ -6,6 +6,9 @@ import useSearch from "../utils/useSearch";
 const DynamicProductList = dynamic(() => import("../components/ProductList"), {
   ssr: false
 });
+/* const DynamicOfferList = dynamic(() => import("../components/OfferList"), {
+  ssr: false
+}); */
 
 const selectValues = [
   "Alcobas",

@@ -1,8 +1,33 @@
 [
   {
-    "name": "Vitrina Forte 7",
-    "description": "Tipo de equipo: Refrigeración comercial\n Alto (mm): 1627 mm\n Ancho (mm): 496 mm\n Fondo(mm): 553 mm\n Temperatura: 0°C a 7°C\n Gabinetes interior y exterior en Lámina prepintada blanca, aislante HC ciclopentano",
-    "image": "/static/vitrinas/Vitrina-forte-7.jpg"
+    "name": "Vitrina G342 3P STYLUS",
+    "description": "Altura: 2021 mm.\n Ancho: 1500 mm.\n Profundo: 725 mm.\n Volumen (Lts) Refrigerador: 1162.\n Cap. botellas 350ml: 630.\n Cns. de energia (kwh&24h): 6,31.\n Voltaje: 115.",
+    "image": "/static/vitrinas/G342-3P-STYLUS.jpg"
+  },
+  {
+    "name": "Vitrina VR17 STYLUS",
+    "description": "Altura: 1889 mm.\n Ancho 718 mm.\n Profundo: 667 mm.\n Volumen (Lts) Refrigerador: 492.\n Cap. botellas 350ml: 280.\n Cns. de energía (kwh&24h): 3,79.\n Voltaje: 115.",
+    "image": "/static/vitrinas/VR17-STYLUS.png"
+  },
+  {
+    "name": "Vitrina VR08 STYLUS",
+    "description": "Altura: 1831 mm.\n Ancho: 480 mm.\n Profundo: 537 mm.\n Volumen (Lts) Refrigerador: 230.\n Cap. botellas 350ml: 120.\n Cns. de energía (kwh&24h): 4,26.\n Voltaje: 115.",
+    "image": "/static/vitrinas/VR08-STYLUS.jpg"
+  },
+  {
+    "name": "Vitrina VCR26 MISUP",
+    "description": "Altura: 2076 mm.\n Ancho: 1000 mm.\n Profundo: 750 mm.\n Volumen (Lts) Refrigerador y Congelador: 354.\n Cns. de energía (kwh&24h): 14,29.\n Voltaje: 115.",
+    "image": "/static/vitrinas/VCR26-MISUP.jpg"
+  },
+  {
+    "name": "Vitrina NV15 Mia",
+    "description": "Altura: 2028 mm.\n Ancho: 596 mm.\n Profundo: 690 mm.\n Volumen (Lts) Refrigerador: 397.\n Cap. botellas 350ml: 280.\n Cns. de energía (kwh&24h): 2,70.\n Voltaje: 115.",
+    "image": "/static/vitrinas/NV15-MIA.jpg"
+  },
+  {
+    "name": "Vitrina Forte V25",
+    "description": "Capacidad: 697.23 Litros.\n Temperatura: 0°C a 7°C.\n Sistema de refrigeración: Aire forzado.\n Consumo de energía: 7.8 kwH/día.",
+    "image": "/static/vitrinas/Vitrina-forte-v25.jpg"
   },
   {
     "name": "Vitrina Congeladora FOGEL VR-17-C-LEDR",

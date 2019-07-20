@@ -20,6 +20,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "react-flickity-component": "^3.3.0",
     "smooth-scroll-into-view-if-needed": "^1.1.23"
   }
 }

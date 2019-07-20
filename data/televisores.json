@@ -43,5 +43,45 @@
     "name": "TV LG UHD 55\"",
     "description": "Smart TV, 4K Active HDR, Sonido DTS VIRTUAL:X.\n Colores espectaculares.\n Resolución muy elevada para una imagen nítida.\n Imágenes consistentes desde cualquier ángulo.\n El núcleo de la imagen auténtica.\n Aumento del brillo al máximo.\n 4K Active HDR. Escenas vividas.",
     "image": "/static/televisores/55UK6350.jpg"
+  },
+  {
+    "name": "TV SAMSUNG LED HD SMART (UN43J5290AKXZL)",
+    "description": "Modelo: 43\" (109 CM).\n Resolución: 1920x1080.\n Puertos USB 1.\n Puertos HDMI 2.\n Wide Color Enhancer.\n Clean View",
+    "image": "/static/televisores/UN43J5290AKXZL-UN32J4290AKXZL.jpg"
+  },
+  {
+    "name": "TV SAMSUNG LED HD SMART (UN32J4290AKXZL)",
+    "description": "Modelo: 32\" (80 CM).\n Resolución: 1366x768.\n Puertos USB 1.\n Puertos HDMI 2.\n Wide Color Enhancer.\n Clean View",
+    "image": "/static/televisores/UN43J5290AKXZL-UN32J4290AKXZL.jpg"
+  },
+  {
+    "name": "TV SAMSUNG LED HD 32\" (80 CM) (UN32J4000AKXZL)",
+    "description": "Resolución: 1366x768.\n Puertos USB 1.\n Puertos HDMI 2.\n Wide Color Enhancer.\n ConnectShare Movie.\n Modo Fútbol.",
+    "image": "/static/televisores/UN32J4000AKXZL.jpg"
+  },
+  {
+    "name": "TV SAMSUNG LED FHD SMART (49J5290)",
+    "description": "Modelo: 49\" (123 CM).\n Resolución: 1920x1080.\n Puertos: USB 1.\n Puertos: HDMI 2.\n Sonido Envolvente: Dolby Digital Plus.\n Procesador de imagen: HyperReal.\n Aplicación de Fútbol: Si.",
+    "image": "/static/televisores/49J5290-UN40J5200.jpg"
+  },
+  {
+    "name": "TV SAMSUNG LED FHD SMART (UN40J5200)",
+    "description": "Modelo: 40\" (102 CM).\n Resolución: 1920x1080.\n Puertos: USB 1.\n Puertos: HDMI 2.\n Sonido Envolvente: Dolby Digital Plus.\n Procesador de imagen: HyperReal.\n Aplicación de Fútbol: Si.",
+    "image": "/static/televisores/49J5290-UN40J5200.jpg"
+  },
+  {
+    "name": "TV SAMSUNG LED UHD 4K SMART 58\" (148 CM) (UN58NU7100)",
+    "description": "Resolución: 3840x2160.\n Puertos: USB 2.\n Puertos: HDMI 3.\n Sonido Envolvente: Dolby Digital Plus.\n Procesador: Quad Core.\n Bluetooth Audio: Si.",
+    "image": "/static/televisores/UN58NU7100.jpg"
+  },
+  {
+    "name": "TV SAMSUNG LED SMART UHD 4K (UN55NU7100KXZL)",
+    "description": "Modelo: 55\" (138 CM).\n Resolución: 3840x2160.\n Puertos: USB 2.\n Puertos: USB 2.\n Puertos: HDMI 3.\n Sonido Envolvente: Dolby Digital.\n Procesador: Quad Core.\n PurColor.",
+    "image": "/static/televisores/UN55NU7100KXZL-UN50NU7100KXZL.jpg"
+  },
+  {
+    "name": "TV SAMSUNG LED SMART UHD 4K (UN50NU7100KXZL)",
+    "description": "Modelo: 50\" (125 CM).\n Resolución: 3840x2160.\n Puertos: USB 2.\n Puertos: USB 2.\n Puertos: HDMI 3.\n Sonido Envolvente: Dolby Digital.\n Procesador: Quad Core.\n PurColor.",
+    "image": "/static/televisores/UN55NU7100KXZL-UN50NU7100KXZL.jpg"
   }
 ]

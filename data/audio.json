@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "name": "LG XBOOM OM4560",
+    "description": "One body mini, Multi Bluetooth, Sound Sync, LED multi color, fácil de llevar.\n 220 Vatios RMS.\n Home Music Bluetooth.\n Wireless TV Sound Sync.\n Auto DJ.\n USB grabador y áltavoz LED iluminado.",
+    "image": "/static/audio/OM4560.jpg"
+  },
+  {
+    "name": "Minicomponente CJ88",
+    "description": "2900 Vatios RMS.\n USB - CD - Multi Bluetooth - MP3.\n Funciones Karaoke.\n Entrada para micrófono.\n Auto DJ.\n Parlantes brillantes.",
+    "image": "/static/audio/CJ88.jpg"
+  },
+  {
+    "name": "Minicomponente CJ45 - 2.1 Ch.",
+    "description": "720 Vatios RMS.\n USB - CD - Multi-Bluethooth - MP3.\n Cancelador de voz.\n Entrada para micrófono.\n Auto DJ.",
+    "image": "/static/audio/CJ45.jpg"
+  },
+  {
+    "name": "Barra de Sonido SJ2 - 2.1 Ch",
+    "description": "160 Vatios RMS.\n Diseño compacto.\n Radiador Pasivo Dual.\n Conexión Bluetooth.\n Bluetooth activo en Stand By.\n Compatible con el control remoto del TV.",
+    "image": "/static/audio/SJ2.jpg"
+  },
+  {
+    "name": "Barra de Sonido SK1 - 2.0 Ch",
+    "description": "40 Vatios RMS.\n Diseño Compacto.\n Conexión Bluetooth.\n LG TV Sound Sync.",
+    "image": "/static/audio/SK1.jpg"
+  },
+  {
+    "name": "Minicomponente LG XBOOM CJ87",
+    "description": "2350 Vatios RMS.\n USB - CD - Multi-Bluethooth - MP3.\n Funciones Karaoke.\n Entrada para micrófono.\n Auto DJ - Conexión inalámbrica TV.\n AM/FM.",
+    "image": "/static/audio/CJ87.jpg"
+  },
+  {
+    "name": "Torre de Sonido LG XBOOM OK75",
+    "description": "1000 Vatios RMS.\n Radio Antena FM.\n TV Sound Sync (óptico).\n Multi Color Party Lighting.\n Efectos DJ - Karaoke Star.\n Grab & Move.",
+    "image": "/static/audio/OK75.jpg"
+  }
+]

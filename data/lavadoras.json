@@ -3,5 +3,35 @@
     "name": "Lavadora IBG 10 Kg",
     "description": "Tablero Digital SI\n Capacidad 10 Kg\n Entradas de Agua 2 caliente y fria\n Fuente de Energia 110V/60Hz\n Bomba de Drenaje SI\n Tapa Vidrio Templado\n Material Gabinete Metal Galvanizado\n Fuzzy Logic SI\n Niveles de Agua 4",
     "image": "/static/lavadoras/Lavadora-IBG-10-Kg.jpg"
+  },
+  {
+    "name": "Lavadora IBG 12KG 12GZI0",
+    "description": "Tablero digital.\n 2 entradas de agua fría y caliente.\n Tapa en vidrio templado.\n Filtro atrapa motas.\n 6 programas de lavado automático.\n 6 niveles de agua.\n Bloqueo para niños.\n Inicio programado.\n Garantía 1 año.",
+    "image": "/static/lavadoras/Lavadora-IBG-12kg-12gzi0.jpg"
+  },
+  {
+    "name": "Lavadora challenger 14KG CW5714",
+    "description": "Dimensiones de Producto:\n Ancho: 60,5cm\t Alto: 100cm\t Fondo: 67cm\n Tipo de Carga: Superior.\n Kilos Lavado: 14.\n Libras Lavado: 28.\n Panel de Control: Digital.\n Tipo Lavado: Tornado.",
+    "image": "/static/lavadoras/Lavadora-challenger-14kg-cw5714.jpg"
+  },
+  {
+    "name": "Lavadora LG 18KG WT18DSBP",
+    "description": "Motor Smart Inverter con Smart Motion y 10 años de garantía en el motor.\n Tecnología Turbo Drum™.\n Smart Diagnosis.\n Filtro de pelusas inteligente.\n Opción de Lavado Diferido y Air Dry.\n Diseño sofisticado con Tapa de vidrio templado y Soft Closing Door.",
+    "image": "/static/lavadoras/Lavadora-lg-18kg-wt18dsbp.jpg"
+  },
+  {
+    "name": "Lavadora LG 19KG WT19DSB",
+    "description": "Motor Smart Inverter con Smart Motion y 10 años de garantía en el motor.\n Tecnología Turbo Drum™.\n Smart Diagnosis.\n Filtro de pelusas inteligente.\n Opción de Lavado Diferido y Air Dry.\n Diseño sofisticado con Tapa de vidrio templado y Soft Closing Doo.",
+    "image": "/static/lavadoras/Lavadora-lg-19kg-wt19dsb.jpg"
+  },
+  {
+    "name": "Lavadora WA17J6730LV/CO",
+    "description": "Activ DualWash.\n Magic Dispenser: Disuelve el detergente para optimizar el lavado.\n Tecnología Wobble: Menos enredo, mayor cuidado.\n 10 niveles de agua.\n Magic Filter: Poderoso filtro atrapamotas.\n Seguro para niños.",
+    "image": "/static/lavadoras/WA17J6730LV.jpg"
+  },
+  {
+    "name": "Lavadora WA13F5L2UDY/AP",
+    "description": "Tecnología Wooble: Menos enredo, mayor cuidado.\n Magic Dispenser: Disuelve el detergente para optimizar el lavado.\n Magic Filter: Poderoso filtro atrapamotas.",
+    "image": "/static/lavadoras/WA13F5L2UDY.jpg"
   }
 ]

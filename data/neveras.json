@@ -33,5 +33,25 @@
     "name": "Nevera IBG 230 Lt",
     "description": "Lámina anti-corrosiva que previene el ingreso de los rayos U.V y del calor al interior de la nevera.\n Disfruta de agua fresca con el nuevo dispensador de fácil acceso y limpieza\n Gran potencia de refrigeración y congelación",
     "image": "/static/neveras/Nevera-IBG-230-Lt.jpg"
+  },
+  {
+    "name": "Nevera Top Freezer",
+    "description": "Tecnología Door Cooling™ de 437 LTS, No frost, Acabado Platinum Silver, Filtro Hygiene Fresh+ ®.\n Nature FRESH le brinda a los alimentos una conservación ideal entre la humedad y la temperatura.\n Inverter Linear Compressor.\n Linear Cooling.\n Hygiene Fresh+™",
+    "image": "/static/neveras/LT41SGPX.jpg"
+  },
+  {
+    "name": "Himalaya 375 SE DA TI",
+    "description": "Sin escarcha.\n Control interno.\n Dispensador de Agua.\n Capacidad: 382,29 LT.\n Peso: 63,7 KG.\n Color: Titano.\n Consumo Energético 39,90 KWH/mes",
+    "image": "/static/neveras/HIMALAYA-375-SE-DA-TI.jpg"
+  },
+  {
+    "name": "Nevera NF DA 318L RT32K5730S8/CL",
+    "description": "Consumo Energético 32,3 KWH/mes.\n Color: Inox Elegante.\n Twin Conlling Plus.\n Digital Inverter Tecnology.\n Multi Flow.\n Display LED táctil.\n Dispensador con filtro de agua.\n Alarma de Puerta.\n Protección antibacteriana.\n Iluminación LED.",
+    "image": "/static/neveras/RT32K5730S8.jpg"
+  },
+  {
+    "name": "Nevera RT38K5932SL/CL",
+    "description": "Twin Colling Plus.\n Hasta 70% más húmedad que permite mayor frescura en los alimentos.\n Digital Inverter: Desempeño eficiente y ahorro de energía.\n 4 modos de uso.\n Dispensador de agua.\n Dispensador de hielo.\n Protección antibacteriana.\n Iluminación LED.",
+    "image": "/static/neveras/RT38K5932SL.jpg"
   }
 ]

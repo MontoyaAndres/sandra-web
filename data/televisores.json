@@ -18,5 +18,30 @@
     "name": "TV IBG LED HD 32\" (80cm)",
     "description": "Resolución HD 1366x768.\n Puertos HDMI 2.\n Puertos USB 1.\n Contraste dinámico 6000:1.",
     "image": "/static/televisores/tv-ibg-led-hd-32.jpg"
+  },
+  {
+    "name": "TV LG HD 32\"",
+    "description": "Active HDR, Procesador Quad Core, Smart TV.\n HD 720p.\n Color Dinámico.\n La esencia de una imagen auténtica.\n Alto Rango Dinámico activo para una escena real.\n Sonido virtual envolvente. Entretenimiento envolvente para el hogar.",
+    "image": "/static/televisores/32LK540BPDA.jpg"
+  },
+  {
+    "name": "TV LG UHD 43\"",
+    "description": "Smart TV, 4K Active HDR, Sonido DTS VIRTUAL:X.\n Resolución UHD para una imagen nítida.\n Imágenes consistentes desde cualquier ángulo.\n 4K Active HDR Escenas vividas.\n Sonido encapsulante DTS Virtual:X.\n Smart TV.",
+    "image": "/static/televisores/43UK6300PDB.jpg"
+  },
+  {
+    "name": "TV LG FHD 49\"",
+    "description": "Smart TV, Active HDR, Sonido Virtual Surround Plus.\n Full HD 1080p.\n Color Dinámico.\n La esencia de una imagen auténtica.\n Alto Rango Dinámico activo para una escena real.\n Sonido Virtual envolvente.\n Entretenimiento envolvente para el hogar.",
+    "image": "/static/televisores/49LK5700.jpg"
+  },
+  {
+    "name": "TV LG UHD 49\"",
+    "description": "Smart TV, 4K Active HDR, Sonido DTS VIRTUAL:X.\n Alta resolución para una imagen de gran nitidez.\n Imágenes consistentes desde cualquier ángulo.\n El corazón de una imagen auténtica.\n Active HDR 4K para una escena real.\n Multicanal con efecto de sonido envolvente.\n Sofisticado por dentro y por fuera.",
+    "image": "/static/televisores/49UK6300.jpg"
+  },
+  {
+    "name": "TV LG UHD 55\"",
+    "description": "Smart TV, 4K Active HDR, Sonido DTS VIRTUAL:X.\n Colores espectaculares.\n Resolución muy elevada para una imagen nítida.\n Imágenes consistentes desde cualquier ángulo.\n El núcleo de la imagen auténtica.\n Aumento del brillo al máximo.\n 4K Active HDR. Escenas vividas.",
+    "image": "/static/televisores/55UK6350.jpg"
   }
 ]

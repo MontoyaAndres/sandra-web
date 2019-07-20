@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "name": "Congelador IBG horizontal 418L IBG430CF2C",
+    "description": "Climate ST.\n 2 Puertas.\n Gas R134A.\n Descongelación manual.\n Energy Class A+/MEPS/SASO.\n Canasta extraíbles.\n Termostato ajustable.\n Consumo Energético 41,98 KWh/mes.",
+    "image": "/static/congeladores/Congelador-IBG-horizontal-418l-ibg430cf2c.jpg"
+  },
+  {
+    "name": "Congelador IBG horizontal 198L IBG201CFC",
+    "description": "Climate ST.\n Gas R600A.\n Descongelación manual.\n Energy Class A+ /DOE/EMPES.\n Canasta extraíble de junta desmontable.\n Termostato ajustable.\n Consumo Energético 34,1 KWh/mes.",
+    "image": "/static/congeladores/Congelador-IBG-horizontal-198l-ibg201cfc.jpg"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "TARGET 125",
+    "description": "Cilindrada: 124,8 CC.\n Semiautomática.\n Versiones Disponibles:\n CS 110\t KEE 110\n 1 Cilindrio.\n 4 Tiempos.\n 2 Válvulas.\n Refrigeración por aire\n Arranque eléctrico y de patada.\n Trasmisión 4 velocidades semiautomático.\n Caja rotativa.\n Cajuela almacenaje (bajo el asiento).\n Potencia: 8.8 Hp.\n Colores:\n Rojo.\t Blanco.\t Negro.",
+    "image": "/static/motos/TARGET-125.png"
+  },
+  {
+    "name": "RKS 150",
+    "description": "Cilindrada: 149,4 CC. SPORT\n Versiones disponibles:\n RKS 125.\t RKS 100.\n 1 Cilindro.\n 4 Tiempos.\n 2 Válvulas.\n Refrigeración por aire\n Arranque eléctrico y de patada.\n Trasmisión 5 velocidades.\n Suspensión Trasera Monoshock.\n Freno Delantero disco.\n Freno trasero tambor.\n Potencia: 13 Hp.\n Colores:\n Negro.\t Rojo.\t Azul.",
+    "image": "/static/motos/RKS-150.jpg"
+  },
+  {
+    "name": "TX 200 EN (ENDURO)",
+    "description": "Cilindrada: 197 CC.\n Versiones disponibles: TX 200 GSM SUPERMOTARD.\n 1 Cilindro.\n 4 Tiempos.\n 2 Válvulas.\n Refrigeración por radiador de aceite.\n Arranque eléctrico y de patada.\n Parrilla de trabajo.\n Rines de lujo.\n Trasmisión 5 velocidades.\n Suspensión delantera Horquilla.\n Telescópica invertida.\n Suspensión Trasera Monoshock.\n Freno Delantero disco.\n Freno trasero disco.\n Potencia 17 HP.\n Colores:\n Blanco.\t Amarrillo.",
+    "image": "/static/motos/TX-200-EN.jpg"
+  },
+  {
+    "name": "TNT 135 (NAKED)",
+    "description": "Cilindrada: 135 CC.\n 1 Cilindro.\n 4 Tiempos.\n 3 Valvulas.\n SOHC.\n Inyección.\n Refrigeración por radiador de aceite.\n Arranque Electrico.\n Encendido TLI.\n Trasmision 5 velocidades.\n Suspension delantera Horquilla Telescopica invertida.\n Suspension Trasera Monoshock.\n Freno Delantero y Trasero de disco.",
+    "image": "/static/motos/TNT-135.jpg"
+  }
+]

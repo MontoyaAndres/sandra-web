@@ -5,6 +5,7 @@ import Comedores from "../data/comedores.json";
 import Complementos from "../data/complementos.json";
 import Congeladores from "../data/congeladores.json";
 import Estufas from "../data/estufas.json";
+import Motos from "../data/motos.json";
 import Lavadoras from "../data/lavadoras.json";
 import Neveras from "../data/neveras.json";
 import Salas from "../data/salas.json";
@@ -36,6 +37,9 @@ export function getJSONToRead(selectValue) {
 
     case "Lavadoras":
       return Lavadoras;
+
+    case "Motos":
+      return Motos;
 
     case "Neveras":
       return Neveras;

@@ -16,6 +16,7 @@ const selectValues = [
   "Congeladores",
   "Estufas",
   "Lavadoras",
+  "Motos",
   "Neveras",
   "Salas",
   "Televisores",

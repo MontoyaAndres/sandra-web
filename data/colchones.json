@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Colchón duo classic",
+    "description": "Calibre 27 cm.\n Tela Jacquard.\n Acolchado AM 4 cm.\n 1 Lámina D30 en 13 cm.\n 1 Lámina cassata D70 en 10 cm.\n Acolchado AM 1 cm.\n Marquilla tejida full color.",
+    "image": "/static/colchones/colchon-duo-classic.jpg"
+  },
+  {
+    "name": "Colchón elegance sweet",
+    "description": "Calibre 29 cm.\n Tela Jacquard.\n Acolchado SF 2 cm.\n 2 Láminas SE en 2 cm.\n 2 Láminas RS NJ en 1 cm.\n 4 sujetadores para fácil rotación.\n Bordado en hilo blanco.\n Parrilla tipo Boné en 17 cm.",
+    "image": "/static/colchones/colchon-elegance-sweet.jpg"
+  },
+  {
+    "name": "Colchón maxipillow gold",
+    "description": "Calibre 38 cm.\n Tela Jacquard.\n Acolchado SF 2 cm.\n 2 Láminas P26 en 5 cm.\n 2 Láminas D100 en 3 cm.\n 2 Láminas VD en 1 cm.\n Lámina Termo en 16 cm.\n Lámina Termo en 16 cm.\n Acolchado SF en 2 cm.\n 4 sujetadores para fácil rotación.\n Bordado central en hilo dorado.",
+    "image": "/static/colchones/colchon-maxipillow-gold.jpg"
+  },
+  {
+    "name": "Colchón natural flex",
+    "description": "Calibre 18 cm.\n Tela Jacquard.\n Acolchado tapisuave en 1 cm.\n 1 Lámina D30 en 16 cm.\n Acolchado tapisuave en 1 cm.\n Marquilla Banner Full Color.",
+    "image": "/static/colchones/colchon-natural-flex.jpg"
+  },
+  {
+    "name": "Colchón pillow natural",
+    "description": "Calibre 22 cm.\n Tela Jacquard.\n Acolchado AM 1 cm.\n 1 Lámina SE 16 cm.\n 1 Lámina SE en 15 cm.\n Acolchado AM 1 cm.\n Marquilla tejida full color.",
+    "image": "/static/colchones/colchon-pillow-natural.jpg"
+  }
+]

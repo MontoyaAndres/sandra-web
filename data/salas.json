@@ -1,1 +1,87 @@
-[]
+[
+  {
+    "name": "Sala amatista",
+    "description": "Tapizada en tela 100% poliéster tipo terciopelo, con patas cónicas en madera con acabado natural.\n Sofá incluye 2 cojines decorativos y cada silla incluye 1 cojín decorativo.\n Presentación: 1 sofá y 3 sillas (3x1) o 1 sofá y 2 sillas (2x1).\n El sofá y las sillas se pueden vender por separado.\n La mesa de centro Amatista se vende por separado (color Negro o blanco).",
+    "image": "/static/salas/sala-amatista.jpg"
+  },
+  {
+    "name": "Sala aroma",
+    "description": "Tapiza en tela PVC.\n Presentación: 2 sofás y 1 esquinero formando una L y un puff.\n Incluye 2 cojines decorativos.\n La mesa de centro Ares se vende por separado.",
+    "image": "/static/salas/sala-aroma.jpg"
+  },
+  {
+    "name": "Sala barú",
+    "description": "Color Natural o Wengue más filtro U.V. Acabado semimate.\n Tapizado en tela microfibra.\n Presentación: 1 sofá de 2 puestos con 2 o 3 sillas.\n Incluye mesa de centro y 2 cojines decorativos.",
+    "image": "/static/salas/sala-baru.jpg"
+  },
+  {
+    "name": "Sala coral",
+    "description": "Tapizado en tela tipo lona 100% poliéster.\n Presentación: 2 sofás y un Puff.\n Incluye 4 cojines decorativos.\n La mesa de centro se vende por separado.",
+    "image": "/static/salas/sala-coral.jpg"
+  },
+  {
+    "name": "Sala elegance",
+    "description": "Color Caboa, acabado semimate más filtro U.V.\n Tapizado en Jacquard o chenilla 100% poliéster.\n Presentación: 1 sofá de 2 puestos con apliques en madera tallados a mano.\n 2 o 3 sillas isabelinas. \n Incluye juego de mesas isabelinas.",
+    "image": "/static/salas/sala-elegance.jpg"
+  },
+  {
+    "name": "Sala estambul",
+    "description": "Sala tapizada en tela tipo microfibra 100% poliéster con tecnología que repele momentaneamente liquidos.\n Presentación: 2 sofás en forma de L y un esquinero.\n Incluye 3 cojines decorativos.\n La mesa de centro Rafaella se vende por separado.",
+    "image": "/static/salas/sala-estambul.jpg"
+  },
+  {
+    "name": "Sala fiorely",
+    "description": "Color caoba más filtro U.V. Acabado semimate.\n Tapizado en Jacquard o chenilla 100% poliéster.\n Presentación: 1 sofá de 2 puestos con 2 o 3 sillas.\n Incluye 2 cojines decorativos.\n Incluye mesa Fiorely.",
+    "image": "/static/salas/sala-fiorely.jpg"
+  },
+  {
+    "name": "Sala galicia",
+    "description": "Tapizado en tejidos plano y accesorios y pull tapizados en microfibra con estampación y detalles en flock.\n Presentación: 2 sofás en forma de L y un Puff.\n Incluye 3 cojines decorativos.\n La mesa de centro se vende por separado.",
+    "image": "/static/salas/sala-galicia.jpg"
+  },
+  {
+    "name": "Sala lisboa",
+    "description": "Sala tapizada en tela tipo lino 100% poliéster.\n Presentación: 2 sofás en forma de L y un puff tipo baúl.\n Incluye 3 cojines decorativos.\n La mesa de centro Ares se vende por separado.",
+    "image": "/static/salas/sala-lisboa.jpg"
+  },
+  {
+    "name": "Sala mónaco",
+    "description": "Tapizado en tela microfibra 100% poliéster.\n Presentación: 2 sofás formando una L.\n Incluye 3 cojines móviles en el espaldar y 4 cojines decorativos.\n La mesa de centro Rafaella se vende por separado.",
+    "image": "/static/salas/sala-monaco.jpg"
+  },
+  {
+    "name": "Sala opalo",
+    "description": "Tapizada en tela 100% poliéster tipo velvet, con tecnología que repele momentaneamente liquidos, elaborada en madera pino (madera reforestada) con acabado natural.\n Incluye 2 cojines decorativos.\n Presentación: 1 sofá y 3 sillas (3x1) o 1 sofá y 2 sillas (2x1).\n La mesa de Centro amatista se vende por separadao (color negro o blanco).",
+    "image": "/static/salas/sala-opalo.jpg"
+  },
+  {
+    "name": "Sala prana",
+    "description": "Tapizado en tela prana tipo cuero (PVC).\n Presentación: 2 sofás y un esquinero formando una L. 3 cojines decorativos.\n La mesa de centro se vende por separado.",
+    "image": "/static/salas/sala-prana.jpg"
+  },
+  {
+    "name": "Sala siena",
+    "description": "Sala tapizada en tela tipo cuero (PVC).\n Presentación: 1 sofá y 3 sillas (3x1) ó 1 sofá y 2 sillas (2x1).\n La mesa de centro se vende por separado.",
+    "image": "/static/salas/sala-siena.jpg"
+  },
+  {
+    "name": "Sala tendenza",
+    "description": "Tapizado en tela tipo lino 100% poliéster.\n Presentación: 2 sofás en forma de L y un Puff.\n Incluye 3 cojines decorativos y sofá con servicio de baúl.\n La mesa de centro se vende por separado.",
+    "image": "/static/salas/sala-tendenza.jpg"
+  },
+  {
+    "name": "Silla reclinomatic",
+    "description": "Estructura de madera tropical seca e inmunizada.\n Tapizada en tela tipo cuero (PVC).\n Color café ó negro. Medidas de silla: alto:96 x ancho:94 x largo:88 cm.",
+    "image": "/static/salas/silla-reclinomatic.jpg"
+  },
+  {
+    "name": "Sofá cama davinci",
+    "description": "Tapizado en tela microfibra con estampación digital 100% poliéster.\n Presentación: 1 sofacama de 2 posiciones y un Pull.\n Ambos articulos se venden por separado.\n La mesa de TV y accesorios se venden por separado.",
+    "image": "/static/salas/sofa-cama-davinci.jpg"
+  },
+  {
+    "name": "Sofá cama liévano",
+    "description": "Tapizado en tela microfibra 100% poliéster o tela tipo cuero (PVC).\n Disponible en todos los colores.\n Presentación: 1 sofá con descanza brazos remobibles que también pueden funcionar como almohadas.\n Reclinable en 3 posiciones.",
+    "image": "/static/salas/sofa-cama-lievano.jpg"
+  }
+]

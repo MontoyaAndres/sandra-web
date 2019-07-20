@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Biffet",
+    "description": "Color Wengue, Caoba ó Natural más filtro U.V.\n Acabado semimate.\n Accesorios: 2 gavetas y entrepaños.\n Vidrio superior de 10 mm.\n Soporte para copas y botellas en color blanco que realzan su diseño.\n Altura: 110 Cm * Ancho: 131 Cm * Profundidad: 40 Cm.\n Presentación: 2 modulos independientes.",
+    "image": "/static/complementos/biffet.jpg"
+  },
+  {
+    "name": "Closet americano",
+    "description": "Color Wengue.\n Elaborado en material aglomerado que resiste la humedad.\n Enchapado en melamina.\n 4 Rodachines.",
+    "image": "/static/complementos/closet-americano.jpg"
+  },
+  {
+    "name": "Closet coral",
+    "description": "Color Wengue o Álamo.\n Elaborado en material aglomerado.\n Resiste la humedad.\n Enchapado en melamina.\n Puertas corredizas.\n 5 Rodachines.",
+    "image": "/static/complementos/closet-coral.jpg"
+  },
+  {
+    "name": "Closet nova",
+    "description": "Color Wengue.\n Elaborado en material aglomerado que resiste la humedad.\n Enchapado en melamina.\n 4 Rodachines.",
+    "image": "/static/complementos/closet-nova.jpg"
+  },
+  {
+    "name": "Closet paris",
+    "description": "Color Wengue.\n Elaborado en material aglomerado.\n Enchapado en melanina que resiste la humedad.\n Presentación en 2 cuerpos que facilita su manipulación.\n Rodachines.",
+    "image": "/static/complementos/closet-paris.jpg"
+  },
+  {
+    "name": "Mesa de TV Turín o Mesa de TV Milano",
+    "description": "Mesa de TV Turín:\n Color blanco.\t Patas metálicas.\t Material aglomerado.\t Espacio para TV de 32\" hasta 43\".\n Mesa de TV Milano:\n Color Wengue.\t Elaborado en material aglomerado.\t Enchapado en melamina.\t (Espacio para TV hasta de 32\").\t 4 rodachines (Soporta hasta 40 Kg por rodachin).",
+    "image": "/static/complementos/mesa-tv-turin-mesa-tv-milano.jpg"
+  },
+  {
+    "name": "Mesa de TV Lotto o Mesa de TV Zafiro",
+    "description": "Mesa de TV Lotto:\n Color negro más filtro U.V.\t Acabado semimate.\t Rodachines que facilitan su traslado.\n Mesa de TV Zafiro:\n Color caoba acabado brillante ó color wengue.\t Acabado semimate más filtro U.V.\t 2 Gavetas.\t Altura: 63 Cm.\t Ancho: 118 Cm.\t Profundidad: 45 Cm.\t Espacio para TV de 32\" hasta 49\"",
+    "image": "/static/complementos/mesa-tv-lotto-mesa-tv-zafiro.jpg"
+  },
+  {
+    "name": "Mesa de TV Verona o Mesa de TV Arezzo",
+    "description": "Mesa de TV Verona:\n Color wengue con blanco.\t Patas metálicas.\t Material aglomerado.\t Espacio para TV de 32\" hasta 49\".\n Mesa de TV Arezzo:\n Color Wengue y blanco.\t Material aglomerado.\t Patas metálicas.\t Altura: 63 Cm.\t Ancho: 75 Cm.\t Profundidad: 45 Cm.\t Espacio para TV de 32\".",
+    "image": "/static/complementos/mesa-tv-verona-mesa-tv-arezzo.jpg"
+  },
+  {
+    "name": "Mueble TV Aéreo Coral o Mesa de TV Coral",
+    "description": "Mueble TV Aéreo Coral:\n Color álamo o wengue con blanco.\t Material aglomerado.\t Espacio para TV de 32\" hasta 55\".\t Gavinete interno.\n Mesa de TV Coral:\n Color álamo o wengue con blanco.\t Material aglomerado.\t Espacio para TV de 32\".\t 2 gavetas.\t Espacio para equipo y/o torre de sonido.",
+    "image": "/static/complementos/mueble-tv-aereo-coral-mesa-tv-coral.jpg"
+  },
+  {
+    "name": "Semanario o Mueble Microondas",
+    "description": "Semanario:\n Color caoba ó negro más filtro U.V.\t Acabado semimate.\t 6 gavetas y 1 entrepaño.\n Mueble Microondas:\n Color Wengue y blanco.\t Abertura para microondas.\t Material aglomerado resistente a la humedad.\t Patas metálicas.\t Enchapado en Melamina.",
+    "image": "/static/complementos/semanario-mueble-microondas.jpg"
+  },
+  {
+    "name": "Vitrina Nova o Vitrina Sevillana",
+    "description": "Vitrina Nova:\n Color caoba, negro ó blanco más filtro U.V.\t Acabado semimate.\t Entrepaños en vidrio.\n Vitrina Sevillana:\n Color caoba, negro ó natural más filtro U.V.\t Acabado semimate.\t Espejo sobrepuesto en la parte posterior.\t Estilo Clásico.",
+    "image": "/static/complementos/vitrina-nova-vitrina-sevillana.jpg"
+  }
+]

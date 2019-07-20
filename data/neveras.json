@@ -5,6 +5,21 @@
     "image": "/static/neveras/Nevera-MABE-RMP400FZCU-400-Lt.png"
   },
   {
+    "name": "Nevera IBG CONVENCIONAL 290L IBGU290TACE",
+    "description": "Sistema de descongelamiento manual.\n Control de temperatura interior.\n Dispensador de agua antibacterial.\n 1 Hielera.\n 1 Anaquel para botellas.\n 2 Anaqueles completos.\n 2 Parrillas en cristal templado.\n Cajón de vegetales transparente con tapa en vidrio.\n Luz en el refrigerador.",
+    "image": "/static/neveras/Nevera-IBG-CONVENCIONAL-290L-IBGU290TACE.jpg"
+  },
+  {
+    "name": "Nevera IBG NF DA 360L IBGP360TJCE",
+    "description": "Control de temperatura interno.\n Dispensador de agua de 2 LT.\n Sistema de descongelación automático.\n Desmoldador de hielos.\n Luz LED.\n 2 Parrillas en cristal templado.\n 1 Anaquel para botellas.",
+    "image": "/static/neveras/Nevera-ibg-nf-da-360l-IBG360NFWJX.jpg"
+  },
+  {
+    "name": "Nevera IBG NF DA 420L IBGP420TJCE",
+    "description": "Dispensador para disfrutar agua al instante.\n Mejor organización para guardar tus alimentos.\n Menos consumo de energía (TIPO A).\n Color: Eco Pet (Extreme Platinum).\n Capacidad: 420L.\n Tipo No frost.\n Bandejas: Vidrio Templado.\n Iluminación: Led.",
+    "image": "/static/neveras/Nevera-IBG-NF-DA-420L-IBGP420TJCE.jpg"
+  },
+  {
     "name": "Nevera MABE RMA250FYCU 250 Lt",
     "description": "Color Titanium\n No Frost\n 1 parrilla alambrón\n 1 anaquel en puerta\n 1 desmoldador de hielos en puerta\n Dispensador de agua de 2 litros\n 2 anaqueles completos\n 1 anaquel para botellas\n Tanque de agua\n Accesorio para huevos\n Luz Led",
     "image": "/static/neveras/Nevera-MABE-RMA250FYCU-250-Lt.jpg"
@@ -16,7 +31,7 @@
   },
   {
     "name": "Nevera IBG 230 Lt",
-    "description": "Lámina anti-corrosiva que previene el ingreso de los rayos UV y del calor al interior de la nevera.\n Disfruta de agua fresca con el nuevo dispensador de fácil acceso y limpieza\n Gran potencia de refrigeración y congelación",
+    "description": "Lámina anti-corrosiva que previene el ingreso de los rayos U.V y del calor al interior de la nevera.\n Disfruta de agua fresca con el nuevo dispensador de fácil acceso y limpieza\n Gran potencia de refrigeración y congelación",
     "image": "/static/neveras/Nevera-IBG-230-Lt.jpg"
   }
 ]

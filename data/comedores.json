@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Comedor amatista",
+    "description": "Disponible en 4 puestos.\n Elaborado en madera Pino (madera reforestada).\n Color de la madera disponible en blanco, negro o natural con filtro U.V.\n Acabado semimate.\n Tapizado en tela 100% poliester tipo terciopelo.\n Disponible con cubierta en vidrio 10 mm.\n Dimensiones de Cubierta: 1.30*0.80 m (vidrio 1.10*0.80 m).",
+    "image": "/static/comedores/comedor-amatista.jpg"
+  },
+  {
+    "name": "Comedor auxiliar",
+    "description": "Color Wengue o Blanco más filtro U.V. Acabado semimate.\n Tapizado en tela microfibra 100% poliéster o tela PVC.\n Cubierta en MDF de 90 cm de diámetro.\n Tapizado disponible en todos los colores.",
+    "image": "/static/comedores/comedor-auxiliar.jpg"
+  },
+  {
+    "name": "Comedor bayonne",
+    "description": "Color Wengue más filtro U.V. Acabado semimate.\n Tapizado en tela microfibra o chenilla 100% poliéster.\n Presentación: 4 y 6 puestos. Cubierta en vidrio tailado o liso de 19 mm.\n Dimensión de 1.10*1.70 m (6 pts) y 1.00*1.40 m (4 pts).\n Base mármol, Base MPA, Base barcelona ó Base sevillana.",
+    "image": "/static/comedores/comedor-bayonne.jpg"
+  },
+  {
+    "name": "Comedor coral",
+    "description": "Color chocolate o natural más filtro U.V. Acabado semimate.\n Tapizado en tela microfibra 100% poliéster o tela PVC.\n Dimensiones Base: 1.20*0.90 m (4 ptos), 1.50*1.00 m (6 ptos).\n Dimensiones vidrio opalizado: 0.40*0.90 m (4 ptos), 0.50*1.00 m (6 ptos).",
+    "image": "/static/comedores/comedor-coral.jpg"
+  },
+  {
+    "name": "Comedor estambul",
+    "description": "Color blanco y negro más filtro U.V. Acabado semimate.\n Las sillas se pueden vender del mismo color.\n Tapizado en tela microfibra 100% poliéster o PVC. Disponible todos los colores.\n Dimensiones: 1.00*1.40 m * 10mm (6 ptos), 0.90*1.20 m * 10mm (4ptos) vidrio con franja opalizada.",
+    "image": "/static/comedores/comedor-estambul.jpg"
+  },
+  {
+    "name": "Comedor gota",
+    "description": "Color Wengue ó Natural más filtro U.V. Acabado semimate.\n Tapizado en tela chenilla o microfibra 100% poliéster.\n Disponible todos los colores.\n Presentación: 4 y 6 puestos.\n Cubierta de vidrio liso de 12 mm (4 y 6 pts).\n Las sillas se pueden vender por separado.",
+    "image": "/static/comedores/comedor-gota.jpg"
+  },
+  {
+    "name": "Comedor lira",
+    "description": "Color caoba más filtro U.V. Acabado semimate.\n Tapizado en tela chenilla o microfibra 100% poliéster. Presentación: 4 y 6 puestos. Cubierta en vidrio tallado o liso de 19 mm.\n Dimensión de 1.10*1.70 m (6 pts) y 1.00*1.40 m (4 pts).\n Base barcelona, Base mármol, Base sevillana ó Base MPA.",
+    "image": "/static/comedores/comedor-lira.jpg"
+  },
+  {
+    "name": "Comedor lisboa",
+    "description": "Disponible en 4 y 6 puestos.\n Color de la madera disponible en blanco, negro o natural con filtro U.V.\n Acabado semimate.\n Tapizado en tela 100% poliester.\n Todos los colores disponibles.\n Dimensiones cubierta: 1.20*0.90 m (4 ptos) y 1.50*1.00 m (6 ptos).",
+    "image": "/static/comedores/comedor-lisboa.jpg"
+  },
+  {
+    "name": "Comedor siena",
+    "description": "Color caoba o negro más filtro U.V. Acabado semimate.\n Tapizado en tela microfibra 100% poliéster o tela PVC.\n Base en madera con cubierta en vidrio opalizado de 8 mm (4 ptos) y 10 mm (6 ptos).\n Dimensiones: 1.10*0.80 m (4 ptos), 1.50*1 m (6 ptos).",
+    "image": "/static/comedores/comedor-siena.jpg"
+  },
+  {
+    "name": "Comedor tendenza",
+    "description": "Color Wengue, Chocolate o Natural más filtro U.V. Acabado semimate.\n Tapizado en tela microfibra, Chenilla 100% poliéster.\n Dimensiones: 110*90*7.5 cm (4 ptos), Vidrio de 6mm 50*30 cm.\n 140*90*7.5 cm (6 ptos), Vidrio de 6mm 80*30 cm.",
+    "image": "/static/comedores/comedor-tendenza.jpg"
+  }
+]

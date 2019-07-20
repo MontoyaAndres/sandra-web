@@ -9,10 +9,16 @@ const DynamicProductList = dynamic(() => import("../components/ProductList"), {
 
 const selectValues = [
   "Alcobas",
+  "Audio",
+  "Colchones",
+  "Comedores",
+  "Complementos",
+  "Congeladores",
   "Estufas",
   "Lavadoras",
   "Neveras",
   "Salas",
+  "Televisores",
   "Vitrinas"
 ];
 

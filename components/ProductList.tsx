@@ -2,6 +2,7 @@ import * as React from "react";
 
 import useResize from "../utils/useResize";
 import Linkify from "./Linkify";
+import ProductFullScreen from "./ProductFullScreen";
 
 function ProductList({
   searchValues,
@@ -9,7 +10,12 @@ function ProductList({
   itemsSelectList,
   products
 }) {
+  const [openModalProduct, setopenModalProduct] = React.useState(null);
   const { width } = useResize();
+
+  function handleOpenModalProduct(product) {
+    setopenModalProduct(product);
+  }
 
   return (
     <>
@@ -28,6 +34,10 @@ function ProductList({
 
         .select-expanded {
           width: auto;
+        }
+
+        figure.image:hover {
+          cursor: pointer;
         }
 
         .input.is-primary,
@@ -51,6 +61,14 @@ function ProductList({
           }
         }
       `}</style>
+
+      {openModalProduct && (
+        <ProductFullScreen
+          isModalOpen={true}
+          handleIsModalOpen={handleOpenModalProduct}
+          product={openModalProduct}
+        />
+      )}
 
       <section className="section">
         <div className="container">
@@ -103,7 +121,10 @@ function ProductList({
                 <div className="column is-4-desktop" key={i}>
                   <div className="card">
                     <div className="card-image">
-                      <figure className="image is-4by3">
+                      <figure
+                        className="image is-4by3"
+                        onClick={() => handleOpenModalProduct(product)}
+                      >
                         <img src={product.image} alt={product.name} />
                       </figure>
                     </div>

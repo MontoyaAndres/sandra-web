@@ -1,0 +1,22 @@
+[
+  {
+    "name": "TV IBG Smart LED 43\" (109cm)",
+    "description": "Resolución FHD 1920x1080\n Android 4.4.\n Almacenamiento 8 GB.\n Puertos HDMI 2.\n Puertos USB 2.\n Contraste dinámico 6000:1.",
+    "image": "/static/televisores/tv-ibg-smart-led-43.jpg"
+  },
+  {
+    "name": "TV IBG Smart LED 32\" (80cm)",
+    "description": "Resolución HD 1366x768.\n Android 4.4.\n Almacenamiento 8 GB.\n Puertos HDMI 3.\n Puertos USB 3.\n Contraste dinámico 7500:1.",
+    "image": "/static/televisores/tv-ibg-smart-led-32.jpg"
+  },
+  {
+    "name": "TV IBG LED FHD 43\" (109cm)",
+    "description": "Resolución FHD 1920x1080.\n Puertos HDMI 3.\n Puertos USB 2.\n Contraste dinámico 6000:1.",
+    "image": "/static/televisores/tv-ibg-led-fhd-43.jpg"
+  },
+  {
+    "name": "TV IBG LED HD 32\" (80cm)",
+    "description": "Resolución HD 1366x768.\n Puertos HDMI 2.\n Puertos USB 1.\n Contraste dinámico 6000:1.",
+    "image": "/static/televisores/tv-ibg-led-hd-32.jpg"
+  }
+]

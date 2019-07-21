@@ -70,14 +70,19 @@ function ProductList({
         />
       )}
 
-      <section className="section">
+      <section id="products" className="section">
         <div className="container">
           <div className={`field ${width > 768 ? "is-grouped" : ""}`}>
             <div className="control is-expanded">
+              <label className="label" htmlFor="search">
+                Busca lo que tú necesitas!
+              </label>
+
               <input
+                id="search"
                 className="input is-primary is-medium"
                 type="search"
-                placeholder="Busca lo que tú necesitas!"
+                placeholder="e.j Madera, No frost, Color..."
                 value={searchValues.inputValue}
                 onChange={e =>
                   handleSearchValues({
@@ -88,8 +93,13 @@ function ProductList({
               />
             </div>
             <div className="control control-select-expanded">
+              <label className="label" htmlFor="selectItem">
+                Seleccinar productos
+              </label>
+
               <span className="select is-primary is-medium">
                 <select
+                  id="selectItem"
                   className="select-expanded"
                   value={searchValues.selectValue}
                   onChange={e =>
@@ -116,7 +126,7 @@ function ProductList({
               </h2>
             </div>
           ) : (
-            <div id="products" className="columns is-multiline">
+            <div className="columns is-multiline">
               {products.map((product, i) => (
                 <div className="column is-4-desktop" key={i}>
                   <div className="card">

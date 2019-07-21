@@ -2,13 +2,14 @@ import * as React from "react";
 import dynamic from "next/dynamic";
 
 import useSearch from "../utils/useSearch";
+import Combos from "../data/combos.json";
 
 const DynamicProductList = dynamic(() => import("../components/ProductList"), {
   ssr: false
 });
-/* const DynamicOfferList = dynamic(() => import("../components/OfferList"), {
+const DynamicList = dynamic(() => import("../components/CarouselList"), {
   ssr: false
-}); */
+});
 
 const selectValues = [
   "Alcobas",
@@ -47,6 +48,8 @@ function index() {
         itemsSelectList={selectValues}
         products={products}
       />
+
+      <DynamicList title="¡Combos de Julio!" nameId="combos" list={Combos} />
     </>
   );
 }

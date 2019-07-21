@@ -14,14 +14,24 @@ function Header() {
 
     scrollIntoView(node, {
       scrollMode: "if-needed",
-      block: "nearest",
-      inline: "nearest"
+      block: "start"
     });
+
+    setIsMenuActive(false);
   }
 
   return (
     <>
       <style jsx>{`
+        .hero .navbar {
+          background: #3f51b5;
+        }
+
+        .navbar {
+          position: fixed;
+          width: 100%;
+        }
+
         .navbar-item-title {
           font-family: "Lobster", cursive;
         }
@@ -53,7 +63,6 @@ function Header() {
               <div className="navbar-brand">
                 <a className="navbar-item">
                   <span
-                    id="start"
                     className="title is-4 navbar-item-title"
                     onClick={() => handleScrollIntoView("#start")}
                   >
@@ -61,7 +70,9 @@ function Header() {
                   </span>
                 </a>
                 <span
-                  className="navbar-burger burger"
+                  className={`navbar-burger burger ${
+                    isMenuActive ? "is-active" : ""
+                  }`}
                   data-target="navbarMenuHeroB"
                   onClick={() => setIsMenuActive(!isMenuActive)}
                 >
@@ -76,7 +87,6 @@ function Header() {
               >
                 <div className="navbar-end">
                   <a
-                    id="start"
                     className="navbar-item"
                     onClick={() => handleScrollIntoView("#start")}
                   >
@@ -87,6 +97,12 @@ function Header() {
                     onClick={() => handleScrollIntoView("#products")}
                   >
                     Productos
+                  </a>
+                  <a
+                    className="navbar-item"
+                    onClick={() => handleScrollIntoView("#combos")}
+                  >
+                    Combos
                   </a>
                   <a
                     className="navbar-item"

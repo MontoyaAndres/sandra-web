@@ -45,8 +45,24 @@ function Header() {
           color: white;
         }
 
+        .whatsapp-color {
+          background-color: #00d1b2;
+        }
+
+        .whatsapp-color:hover {
+          background-color: #00c4a7;
+        }
+
         .hero.is-primary a.navbar-item:hover {
           background-color: #5c6bc0;
+        }
+
+        .notification {
+          border-radius: 0;
+        }
+
+        .notification:not(:last-child) {
+          margin: 0;
         }
 
         @media screen and (max-width: 1087px) {
@@ -81,35 +97,50 @@ function Header() {
                   <span />
                 </span>
               </div>
+
               <div
                 id="navbarMenuHeroB"
                 className={`navbar-menu ${isMenuActive ? "is-active" : ""}`}
               >
+                <a
+                  className="navbar-item"
+                  onClick={() => handleScrollIntoView("#start")}
+                >
+                  Inicio
+                </a>
+                <a
+                  className="navbar-item"
+                  onClick={() => handleScrollIntoView("#products")}
+                >
+                  Productos
+                </a>
+                <a
+                  className="navbar-item"
+                  onClick={() => handleScrollIntoView("#combos")}
+                >
+                  Combos
+                </a>
+                <a
+                  className="navbar-item"
+                  onClick={() => handleScrollIntoView("#contact")}
+                >
+                  Contacto
+                </a>
+
                 <div className="navbar-end">
-                  <a
-                    className="navbar-item"
-                    onClick={() => handleScrollIntoView("#start")}
-                  >
-                    Inicio
-                  </a>
-                  <a
-                    className="navbar-item"
-                    onClick={() => handleScrollIntoView("#products")}
-                  >
-                    Productos
-                  </a>
-                  <a
-                    className="navbar-item"
-                    onClick={() => handleScrollIntoView("#combos")}
-                  >
-                    Combos
-                  </a>
-                  <a
-                    className="navbar-item"
-                    onClick={() => handleScrollIntoView("#contact")}
-                  >
-                    Contacto
-                  </a>
+                  <div className="navbar-item">
+                    <div className="buttons">
+                      <a
+                        className="button is-primary whatsapp-color"
+                        href="https://wa.me/+573134894611?text=Hola%20Sandra,%20estoy%20interesado%20en%20el%20producto%20"
+                      >
+                        <strong>WhatsApp</strong>
+                      </a>
+                      <a className="button is-light" href="tel:3134894611">
+                        <strong>Celular</strong>
+                      </a>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>

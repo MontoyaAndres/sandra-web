@@ -1,17 +1,13 @@
 import React from "react";
-import Document, { Head, Main, NextScript } from "next/document";
+import Document, { Html, Head, Main, NextScript } from "next/document";
 
 class MyDocument extends Document {
   render() {
     return (
-      <html lang="es" dir="ltr">
+      <Html>
         <Head>
           <meta charSet="utf-8" />
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
-          <meta
-            name="viewport"
-            content="minimum-scale=1, initial-scale=1, width=device-width, shrink-to-fit=no"
-          />
           <meta
             name="description"
             content="Lo que tú necesites, lo encuentras en el almacen I.B.G con la asesoría de Sandra Sánchez. Más información +573213726060"
@@ -69,12 +65,14 @@ class MyDocument extends Document {
           />
           <link
             rel="stylesheet"
+            type="text/css"
             href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.min.css"
             integrity="sha256-8B1OaG0zT7uYA572S2xOxWACq9NXYPQ+U5kHPV1bJN4="
             crossOrigin="anonymous"
           />
           <link
             rel="stylesheet"
+            type="text/css"
             href="https://unpkg.com/flickity@2.2.1/dist/flickity.css"
           />
         </Head>
@@ -90,7 +88,7 @@ class MyDocument extends Document {
           <Main />
           <NextScript />
         </body>
-      </html>
+      </Html>
     );
   }
 }

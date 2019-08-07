@@ -12,6 +12,8 @@
     "next": "^9.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-flickity-component": "^3.3.0",
+    "smooth-scroll-into-view-if-needed": "^1.1.23",
     "typescript": "^3.5.3"
   },
   "scripts": {
@@ -19,8 +21,5 @@
     "now-build": "next build && next export -o dist",
     "start": "next start"
   },
-  "dependencies": {
-    "react-flickity-component": "^3.3.0",
-    "smooth-scroll-into-view-if-needed": "^1.1.23"
-  }
+  "dependencies": {}
 }

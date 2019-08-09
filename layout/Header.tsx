@@ -1,12 +1,15 @@
 import * as React from "react";
 import dynamic from "next/dynamic";
 import scrollIntoView from "smooth-scroll-into-view-if-needed";
+import { useRouter } from "next/router";
+import Link from "next/link";
 
 const DynamicHeaderBody = dynamic(() => import("./HeaderBody"), {
   ssr: false
 });
 
 function Header() {
+  const { pathname } = useRouter();
   const [isMenuActive, setIsMenuActive] = React.useState(false);
 
   function handleScrollIntoView(element: string) {
@@ -72,18 +75,19 @@ function Header() {
         }
       `}</style>
 
-      <section className="hero is-primary is-fullheight">
+      <section
+        className={`hero is-primary ${pathname === "/" ? "is-fullheight" : ""}`}
+      >
         <div className="hero-head">
           <nav className="navbar">
             <div className="container">
               <div className="navbar-brand">
                 <a className="navbar-item">
-                  <span
-                    className="title is-4 navbar-item-title"
-                    onClick={() => handleScrollIntoView("#start")}
-                  >
-                    Asesora Sandra Sánchez
-                  </span>
+                  <Link href="/">
+                    <a className="title is-4 navbar-item-title">
+                      Asesora Sandra Sánchez
+                    </a>
+                  </Link>
                 </a>
                 <span
                   className={`navbar-burger burger ${
@@ -102,44 +106,14 @@ function Header() {
                 id="navbarMenuHeroB"
                 className={`navbar-menu ${isMenuActive ? "is-active" : ""}`}
               >
-                <a
-                  className="navbar-item"
-                  onClick={() => handleScrollIntoView("#start")}
-                >
-                  Inicio
-                </a>
-                <a
-                  className="navbar-item"
-                  onClick={() => handleScrollIntoView("#products")}
-                >
-                  Productos
-                </a>
-                <a
-                  className="navbar-item"
-                  onClick={() => handleScrollIntoView("#combos")}
-                >
-                  Combos
-                </a>
-                <a
-                  className="navbar-item"
-                  onClick={() => handleScrollIntoView("#contact")}
-                >
-                  Contacto
-                </a>
-
                 <div className="navbar-end">
                   <div className="navbar-item">
-                    <div className="buttons">
-                      <a
-                        className="button is-primary whatsapp-color"
-                        href="https://wa.me/+573134894611?text=Hola%20Sandra,%20estoy%20interesado%20en%20el%20producto%20"
-                      >
-                        <strong>WhatsApp</strong>
-                      </a>
-                      <a className="button is-light" href="tel:3134894611">
-                        <strong>Celular</strong>
-                      </a>
-                    </div>
+                    <a
+                      className="button is-light"
+                      onClick={() => handleScrollIntoView("#contact")}
+                    >
+                      <strong>Contacto</strong>
+                    </a>
                   </div>
                 </div>
               </div>
@@ -147,7 +121,7 @@ function Header() {
           </nav>
         </div>
 
-        <DynamicHeaderBody />
+        {pathname === "/" && <DynamicHeaderBody />}
       </section>
     </>
   );

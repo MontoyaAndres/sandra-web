@@ -1,4 +1,5 @@
 import * as React from "react";
+import Link from "next/link";
 
 import useResize from "../utils/useResize";
 import Linkify from "./Linkify";
@@ -146,12 +147,15 @@ function ProductList({
                       </div>
 
                       <div className="content">
-                        <ul>
-                          <Linkify
-                            items={product.description.split("\n")}
-                            amountItems={5}
-                          />
-                        </ul>
+                        <Link
+                          href="/[product]"
+                          as={`/${product.name}`}
+                          prefetch
+                        >
+                          <a className="button is-link is-outlined is-large is-fullwidth">
+                            Comprar ahora
+                          </a>
+                        </Link>
                       </div>
                     </div>
                   </div>

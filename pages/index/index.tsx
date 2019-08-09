@@ -1,13 +1,16 @@
 import * as React from "react";
 import dynamic from "next/dynamic";
 
-import useSearch from "../utils/useSearch";
-import Combos from "../data/combos.json";
+import useSearch from "../../utils/useSearch";
+import Combos from "../../data/combos.json";
 
-const DynamicProductList = dynamic(() => import("../components/ProductList"), {
-  ssr: false
-});
-const DynamicList = dynamic(() => import("../components/CarouselList"), {
+const DynamicProductList = dynamic(
+  () => import("../../components/ProductList"),
+  {
+    ssr: false
+  }
+);
+const DynamicList = dynamic(() => import("../../components/CarouselList"), {
   ssr: false
 });
 

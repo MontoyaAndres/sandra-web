@@ -1,12 +1,16 @@
 import * as React from "react";
+import dynamic from "next/dynamic";
 
-import Header from "./Header";
 import Footer from "./Footer";
+
+const DynamicHeader = dynamic(() => import("./Header"), {
+  ssr: false
+});
 
 function Layout({ children }) {
   return (
     <>
-      <Header />
+      <DynamicHeader />
       {children}
       <Footer />
     </>

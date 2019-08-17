@@ -4,13 +4,15 @@ import scrollIntoView from "smooth-scroll-into-view-if-needed";
 import { useRouter } from "next/router";
 import Link from "next/link";
 
+import useResize from "../utils/useResize";
+
 const DynamicHeaderBody = dynamic(() => import("./HeaderBody"), {
   ssr: false
 });
 
 function Header() {
   const { pathname } = useRouter();
-  const [isMenuActive, setIsMenuActive] = React.useState(false);
+  const { width } = useResize();
 
   function handleScrollIntoView(element: string) {
     const node = document.querySelector(element);
@@ -19,8 +21,6 @@ function Header() {
       scrollMode: "if-needed",
       block: "start"
     });
-
-    setIsMenuActive(false);
   }
 
   return (
@@ -35,6 +35,14 @@ function Header() {
           width: 100%;
         }
 
+        .navbar-brand {
+          justify-content: space-between;
+        }
+
+        .container {
+          display: initial;
+        }
+
         .navbar-item-title {
           font-family: "Lobster", cursive;
         }
@@ -44,28 +52,8 @@ function Header() {
           color: white;
         }
 
-        .navbar-burger {
-          color: white;
-        }
-
-        .whatsapp-color {
-          background-color: #00d1b2;
-        }
-
-        .whatsapp-color:hover {
-          background-color: #00c4a7;
-        }
-
         .hero.is-primary a.navbar-item:hover {
           background-color: #5c6bc0;
-        }
-
-        .notification {
-          border-radius: 0;
-        }
-
-        .notification:not(:last-child) {
-          margin: 0;
         }
 
         @media screen and (max-width: 1087px) {
@@ -82,39 +70,21 @@ function Header() {
           <nav className="navbar">
             <div className="container">
               <div className="navbar-brand">
-                <a className="navbar-item">
+                <div className="navbar-item">
                   <Link href="/">
                     <a className="title is-4 navbar-item-title">
                       Asesora Sandra Sánchez
                     </a>
                   </Link>
-                </a>
-                <span
-                  className={`navbar-burger burger ${
-                    isMenuActive ? "is-active" : ""
-                  }`}
-                  data-target="navbarMenuHeroB"
-                  onClick={() => setIsMenuActive(!isMenuActive)}
-                >
-                  <span />
-                  <span />
-                  <span />
-                </span>
-              </div>
+                </div>
 
-              <div
-                id="navbarMenuHeroB"
-                className={`navbar-menu ${isMenuActive ? "is-active" : ""}`}
-              >
-                <div className="navbar-end">
-                  <div className="navbar-item">
-                    <a
-                      className="button is-light"
-                      onClick={() => handleScrollIntoView("#contact")}
-                    >
-                      <strong>Contacto</strong>
-                    </a>
-                  </div>
+                <div className="navbar-item">
+                  <a
+                    className="button is-light"
+                    onClick={() => handleScrollIntoView("#contact")}
+                  >
+                    <strong>{width > 600 ? "Contacto" : "📞"}</strong>
+                  </a>
                 </div>
               </div>
             </div>

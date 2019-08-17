@@ -3,7 +3,8 @@ import { useRouter } from "next/router";
 
 function Product() {
   const { query } = useRouter();
-  return <h1>{JSON.stringify(query)}</h1>;
+
+  return <section className="section">hey</section>;
 }
 
 export default Product;

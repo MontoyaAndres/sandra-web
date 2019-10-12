@@ -2,22 +2,20 @@ import * as React from "react";
 import Flickity from "react-flickity-component";
 
 interface Props {
-  title: string;
-  nameId: string;
   list: Array<string>;
 }
 
-function CarouselList({ title, nameId, list }: Props) {
+function CarouselList({ list }: Props) {
   const options = {
     contain: true,
     initialIndex: 0
   };
 
   return (
-    <section className="section" id={nameId}>
+    <section className="section" id="combos">
       <div className="container">
         <div className="content has-text-centered">
-          <h2 className="title is-2">{title}</h2>
+          <h2 className="title is-2">¡Combos del mes!</h2>
         </div>
 
         <Flickity className="carousel" options={options} static>

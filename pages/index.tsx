@@ -49,7 +49,7 @@ function index() {
         products={products}
       />
 
-      <DynamicList title="¡Combos de Agosto!" nameId="combos" list={Combos} />
+      <DynamicList list={Combos} />
     </>
   );
 }
